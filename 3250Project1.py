@@ -25,7 +25,7 @@ pd.options.mode.chained_assignment = None
 import pandas as pd
 
 # Directory containing the .xlsx files
-directory = r"C:\Users\rowan\OneDrive\Documents\stat3250"
+directory = r"C:\Users\sarachan\OneDrive\Documents\stat3250"
 
 # Define file paths
 JB_tweets_path = f"{directory}\\JoeBiden.xlsx"
